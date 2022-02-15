@@ -1,4 +1,4 @@
-# hydra-osc
+# hydra-osc [WIP]
 
 Minimum example sending osc messages to and from hydra in the browser. 
 
