@@ -18,7 +18,6 @@ _osc.open()
 
 _osc.on("*", (m) => { console.log(m.address, m.args)})
 
-sendOsc()
 ```
 Open the browser console to see osc messages logged from your local system. The local osc messages should be sent to the ports specified in `server.js`
 
